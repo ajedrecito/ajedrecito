@@ -3,8 +3,7 @@
 </div>
 <img src="https://i.imgur.com/3Zy18C3.png">
 
-[Youtube](https://www.youtube.com/@AstroTonto)
-
+[Youtube](https://www.youtube.com/@AstroTonto) ![YouTube Subscribers](https://badge42.vercel.app/api/youtube/channel/subscribers/UCect0lCGd3xji8fCytxQk8w)
 ## Sobre mi
 
 -Aprendiendo lenguajes
