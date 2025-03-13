@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/yV1ZVaM.png">
 
-[Youtube](https://www.youtube.com/@AstroTonto) [Discord](https://discord.com/invite/juhCpJnZ)
+[Youtube](https://www.youtube.com/@AstroTonto)        [Discord](https://discord.com/invite/juhCpJnZ)
 ## Sobre mi
 
 -🐧​ Aprendiendo le nguajes y divirtiendome <br>-​😺​ Experto en Scratch y código de bloques <br>-​​🐍​Especialidad en Python: preguntas y respuestas
