@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy ajedrecito 👋</h1>
 </div>
-<img src="https://i.imgur.com/yV1ZVaM.png">
+<img src="https://i.imgur.com/rnQ7Fa1.png">
 
 [Youtube](https://www.youtube.com/@AstroTonto)        [Discord](https://discord.com/invite/juhCpJnZ)
 ## Sobre mi
