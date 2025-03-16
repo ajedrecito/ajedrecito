@@ -6,7 +6,7 @@
 [Youtube](https://www.youtube.com/@AstroTonto)        [Discord](https://discord.com/invite/juhCpJnZ)
 ## Sobre mi
 
--🐧​ Aprendiendo lenguajes y divirtiendome <br>-​😺​ Experto en Scratch y código de bloques <br>-​​🐍​Especialidad en Python: preguntas y respuestas
+-🐧​ Aprendiendo lenguajes y divirtiendome <br>-​😺​ Ingeniero de Software de bloques <br>-​​🐍​Especialidad en Python: preguntas y respuestas
 <hr>
 
 ### Skills
