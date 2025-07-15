@@ -6,8 +6,17 @@
 [Youtube](https://www.youtube.com/@AstroTonto)        [Discord](https://discord.com/invite/juhCpJnZ)
 ## Sobre mi
 
--🐧​ Aprendiendo lenguajes y divirtiendome <br>-​😺​ Ingeniero de Software de bloques <br>-​​🐍​Especialidad en Python: preguntas y respuestas
+-🐧​ Aprendiendo lenguajes y divirtiendome <br>-​😺​ He creado Mi propia distro de [linux](https://erizos.tiiny.site/) <br>-​​🐍​Especialidad en Python: preguntas y respuestas
 <hr>
+
+### Mi Sistema operativo
+![Static Badge](https://img.shields.io/badge/Linux-ErizOs-brown)
+[Desacragalo](https://erizos.tiiny.site/Descargar.html) y prúebalo el mejor sistema operativo para seguridad sin saber nada de ella, también soporta videojuegos pesados, hecho para ti.
+
+Mira la [web](https://erizos.tiiny.site/) para ver la documentación, o si tienes alguna duda.
+
+<img src="https://imgur.com/0PcCcX6.png" width="100">
+
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
